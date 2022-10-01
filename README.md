@@ -1,11 +1,31 @@
 ### Hi there 👋
 
+```swift
+struct Dev {
+  let name = "Jean-Christophe (JC) Pastant"
+  let pronouns = "Sir"
+  let age = Int.infinity
+  let role = "iOS Staff Engineer"
+  let location = "France 🇫🇷"
+  let languages = ["en_FR", "en_US"]
+  let skills = ["Swift", "ObjC", "Ruby", "French jokes 🤡"]
+  
+  func sayHi() {
+    print("Thanks for dropping by. Feel free to have a look at my work!")
+  }
+}
 
-I'm JC, an iOS Staff Engineer working from France 🇫🇷.
+let me = Dev()
+me.sayHi()
+```
 
-I participate to open source projects and made a few of mines.
+## My latest projects
 
-- 📝 I'm writing articles on my blog [swiftunwrap.com](https://swiftunwrap.com)
-- 🎙 Sometimes I speak to some conferences
-- 👉 You can follow me on
-  - [![twitter](https://img.shields.io/badge/twitter-pjechris-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/pjechris)
+- [CohesionKit](https://github.com/pjechris/CohesionKit): A Source of Truth library to help dealing with realtime data
+- [AnnotationInject](https://github.com/pjechris/AnnotationInject) Compile-time injection using code generation
+- [SimpleHTTP](https://github.com/pjechris/SimpleHTTP) Lighweight additions to Foundation to improve requests
+
+## Links
+
+- **Blog**: https://swiftunwrap.com
+- **Twitter**: [@pjechris](https://twitter.com/pjechris)
