@@ -19,6 +19,8 @@ let me = Dev()
 me.sayHi()
 ```
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=pjechris&show_icons=true&theme=synthwave)
+
 ## My latest projects
 
 - [CohesionKit](https://github.com/pjechris/CohesionKit): A Source of Truth library to help dealing with realtime data
